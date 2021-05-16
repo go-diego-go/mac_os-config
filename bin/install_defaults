@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# Installs system and application default settings.
+# Applies system and application defaults.
 
 printf "%s\n" "System - Reveal IP address, hostname, OS version, etc. when clicking login window clock."
 sudo defaults write /Library/Preferences/com.apple.loginwindow AdminHostInfo HostName
@@ -71,9 +71,6 @@ defaults write com.apple.systemuiserver menuExtras -array \
   "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
   "/System/Library/CoreServices/Menu Extras/AirPort.menu"
 
-printf "%s\n" "Dock - Remove all default app icons."
-defaults write com.apple.dock persistent-apps -array
-
 printf "%s\n" "Dock - Automatically hide and show."
 defaults write com.apple.dock autohide -bool true
 
@@ -82,9 +79,6 @@ defaults write com.apple.Dock autohide-delay -float 0
 
 printf "%s\n" "Dock - Don’t show Dashboard as a Space."
 defaults write com.apple.dock "dashboard-in-overlay" -bool true
-
-printf "%s\n" "iCloud - Save to disk by default."
-defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 
 printf "%s\n" "Finder - Show the $HOME/Library folder."
 chflags nohidden $HOME/Library
@@ -103,6 +97,9 @@ defaults write com.apple.finder ShowStatusBar -bool true
 
 printf "%s\n" "Finder - Use list view in all Finder windows."
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+
+printf "%s\n" "Finder - Display full POSIX path as window title."
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
 
 printf "%s\n" "Finder - Allow text selection in Quick Look."
 defaults write com.apple.finder QLEnableTextSelection -bool true

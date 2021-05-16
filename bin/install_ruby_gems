@@ -2,5 +2,3 @@
 
 # Installs Ruby gems.
 
-gem install git-lint
-gem install rake

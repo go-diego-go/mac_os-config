@@ -2,4 +2,3 @@
 
 # Installs Rust crates.
 
-cargo install silicon
