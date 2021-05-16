@@ -6,6 +6,18 @@ if [[ -z $(cat /etc/shells | grep "$(get_homebrew_bin_root)/bash") ]]; then
   sudo bash -c "printf '$(get_homebrew_bin_root)/bash\n' >> /etc/shells"
   chsh -s "$(get_homebrew_bin_root)/bash"
   rm -f "$HOME/.bash_profile"
+  curl -sLf https://spacevim.org/install.sh | bash
+
+  chsh -s /bin/zsh
+
+  install_git_project "https://github.com/go-diego-go/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
+  source "$HOME/.zshrc"
+
+  git config --global credential.helper osxkeychain
+  git config --global user.name "Diego Gonzalez"
+  git config --global user.email "diego.glez.s@gmail.com"
+  git config --global core.editor vim
+
 else
   printf "%s\n" "Shell is installed."
 fi

@@ -2,26 +2,3 @@
 
 # Installs Ruby gems.
 
-gem update --system && gem update
-gem install amazing_print
-gem install asciidoctor
-gem install benchmark-ips
-gem install bundler-stats
-gem install bundleup
-gem install caliber
-gem install gemsmith
-gem install git-lint
-gem install hanami
-gem install hanamismith
-gem install libyear-bundler
-gem install pennyworth
-gem install pessimize
-gem install pragmater
-gem install rails
-gem install reek
-gem install rspec
-gem install rubysmith
-gem install solargraph
-gem install sublime_text_kit
-gem install syntax_tree
-gem install youplot
