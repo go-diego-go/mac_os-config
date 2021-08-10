@@ -14,6 +14,7 @@ brew install --cask brave-browser
 brew install --cask cleanshot
 brew install --cask clipgrab
 brew install --cask dash
+brew install --cask docker
 brew install --cask dropbox
 brew install --cask dynalist
 brew install --cask elmedia-player
@@ -34,6 +35,7 @@ brew install --cask macdown
 brew install --cask muzzle
 brew install --cask ngrok
 brew install --cask pgadmin4
+brew install --cask pritunl
 brew install --cask qbserve
 brew install --cask reaper
 brew install --cask rectangle
