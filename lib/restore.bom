@@ -97,6 +97,9 @@
 # Fission
 /Users/bkuhlmann/Library/Preferences/com.rogueamoeba.Fission.plist
 
+# Ghostlab
+/Users/bkuhlmann/Library/Preferences/com.vanamco.Ghostlab3.www.plist
+
 # Google Chrome
 /Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
 
@@ -105,8 +108,8 @@
 /Users/bkuhlmann/Library/Preferences/com.noodlesoft.Hazel.plist
 /Users/bkuhlmann/Library/Preferences/com.noodlesoft.HazelHelper.plist
 
-# IVPN
-/Users/bkuhlmann/Library/Preferences/net.ivpn.client.IVPN.plist
+# IINA
+/Users/bkuhlmann/Library/Preferences/com.colliderli.iina.plist
 
 # ImageOptim
 /Users/bkuhlmann/Library/Preferences/net.pornel.ImageOptim.plist
@@ -134,6 +137,9 @@
 # Micro Snitch
 /Users/bkuhlmann/Library/Preferences/at.obdev.MicroSnitch.plist
 
+# Mockuuups Studio
+/Users/bkuhlmann/Library/Preferences/com.mockuuups.studio-app.plist
+
 # MoneyWell
 /Users/bkuhlmann/Library/Preferences/com.nothirst.moneywell.mac.LSSharedFileList.plist
 
@@ -156,6 +162,9 @@
 
 # pgAdmin
 /Users/bkuhlmann/Library/Preferences/org.pgadmin.pgAdmin 4.plist
+
+# Pika
+/Users/bkuhlmann/Library/Preferences/com.superhighfives.Pika.plist
 
 # PixelSnap
 /Users/bkuhlmann/Library/Preferences/pl.maketheweb.pixelsnap2.plist
@@ -187,9 +196,8 @@
 /Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.helper.plist
 /Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.plist
 
-# VLC
-/Users/bkuhlmann/Library/Application Support/org.videolan.vlc
-/Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
+# Zulip
+/Users/bkuhlmann/Library/Preferences/org.zulip.zulip-electron.plist
 
 # SYSTEM
 

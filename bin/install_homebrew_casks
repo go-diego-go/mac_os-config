@@ -24,6 +24,7 @@ brew install --cask flux
 brew install --cask font-hack-nerd-font
 brew install --cask freedom
 brew install --cask handbrake
+brew install --cask iina
 brew install --cask imageoptim
 brew install --cask insomnia
 brew install --cask istat-menus

@@ -5,6 +5,12 @@
 # Amphetamine
 mas install 937984704
 
+# 1Password
+mas install 443987910
+
+# DaisyDisk
+mas install 411643860
+
 # GarageBand
 mas install 682658836
 
@@ -25,3 +31,6 @@ mas install 409203825
 
 # Pages
 mas install 409201541
+
+# Slack
+mas install 803453959

@@ -29,22 +29,27 @@ Installs the following link:https://brew.sh[formulas]:
 * link:http://bash-completion.alioth.debian.org[Bash Completion]
 * link:https://github.com/sharkdp/bat[Bat]
 * link:https://github.com/toy/blueutil[blueutil]
-* link:https://github.com/postmodern/chruby[chruby]
 * link:https://crystal-lang.org[Crystal]
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://direnv.net[direnv]
+* link:https://github.com/wagoodman/dive[Dive]
+* link:https://dns.lookup.dog[dog]
+* link:https://github.com/muesli/duf[duf]
 * link:http://duti.org[duti]
 * link:https://eradman.com/entrproject[Entr]
 * link:https://the.exa.website[Exa]
 * link:https://exiftool.org/index.html[ExifTool]
 * link:https://github.com/sharkdp/fd[fd]
 * link:https://www.xiph.org/flac[FLAC]
+* link:https://github.com/tako8ki/frum[Frum]
+* link:https://github.com/Schniz/fnm[Fast Node Manager]
 * link:https://github.com/junegunn/fzf[FZF]
 * link:https://git-scm.com[Git]
 * link:https://github.com/dandavison/delta[Git Delta]
 * link:https://github.com/newren/git-filter-repo[Git Filter Repo]
 * link:https://github.com/github/git-sizer[Git Sizer]
 * link:https://www.gnupg.org[GPG]
+* link:https://github.com/orf/gping[gping]
 * link:http://www.graphicsmagick.org[Graphics Magick]
 * link:https://www.graphviz.org[Graphviz]
 * link:https://github.com/sharkdp/hexyl[hexyl]
@@ -54,8 +59,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/jkbrzt/httpie[HTTPie]
 * link:https://github.com/reorx/httpstat[HTTP Stat]
 * link:https://github.com/sharkdp/hyperfine[Hyperfine]
-* link:https://github.com/JamieMason/ImageOptim-CLI[ImageOptim CLI]
-* link:https://code.google.com/p/ioping[Ioping]
+* link:https://github.com/koct9i/ioping[Ioping]
 * link:https://stedolan.github.io/jq[jq]
 * link:http://lame.sourceforge.net[lame]
 * link:https://lnav.org[lnav]
@@ -63,48 +67,45 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://magic-wormhole.readthedocs.io[Magic Wormhole]
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
+* link:https://mitmproxy.org[mitmproxy]
 * link:https://dev.yorhel.nl/ncdu[NCurses Disk Usage]
-* link:https://www.nginx.com[Nginx]
-* link:http://ngrep.sourceforge.net[Network Grep]
 * link:https://nodejs.org[Node.js]
 * link:https://github.com/variadico/noti[Noti]
 * link:https://github.com/nushell/nushell[Nushell]
 * link:https://github.com/hatoo/oha[Oha]
+* link:https://www.openssh.com[OpenSSH]
 * link:https://openssl.org[OpenSSL]
 * link:https://github.com/DarthSim/overmind[Overmind]
 * link:https://pandoc.org[Pandoc]
 * link:https://savannah.gnu.org/projects/parallel[Parallel]
-* link:https://github.com/peco/peco[Peco]
+* link:https://github.com/sharkdp/pastel[Pastel]
 * link:https://www.pgcli.com[pgcli]
 * link:https://www.zlib.net/pigz[Pigz]
-* link:https://github.com/GPGTools/pinentry-mac[Pinentry]
+* link:https://github.com/GPGTools/pinentry[Pinentry]
 * link:https://www.postgresql.org[PostgreSQL]
-* link:http://denilson.sa.nom.br/prettyping[Pretty Ping]
 * link:https://github.com/dalance/procs[Procs]
-* link:https://www.ivarch.com/programs/pv.shtml[Pipe Viewer]
 * link:https://ranger.github.io[Ranger]
 * link:https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
 * link:https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
 * link:http://redis.io[Redis]
 * link:https://github.com/BurntSushi/ripgrep[ripgrep]
-* link:https://github.com/postmodern/ruby-install[Ruby Install]
 * link:https://github.com/sass/sassc[SASSC]
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
 * link:https://www.joedog.org/siege-home[Siege]
 * link:https://www.bernhard-baehr.de[Sleepwatcher]
 * link:http://sox.sourceforge.net/sox.html[Sox]
 * link:https://www.tarsnap.com[Tarsnap]
+* link:https://github.com/dbrgn/tealdeer[Tealdeer]
 * link:https://www.terraform.io[Terraform]
 * link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
-* link:http://tmux.sourceforge.net[tmux]
+* link:https://github.com/tmux/tmux/wiki[tmux]
 * link:https://github.com/XAMPPRocky/tokei[Tokie]
 * link:https://www.vim.org[Vim]
 * link:https://gitlab.com/procps-ng/procps[Watch]
-* link:https://github.com/wg/wrk[Wrk]
+* link:https://github.com/vi/websocat[Websocat]
 * link:https://github.com/BurntSushi/xsv[xsv]
 * link:https://github.com/mptre/yank[Yank]
-* link:https://yarnpkg.com[Yarn]
-* link:https://github.com/rupa/z[Z]
+* link:https://github.com/ajeetdsouza/zoxide[Zoxide]
 
 === Homebrew Casks
 
@@ -127,13 +128,14 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.rogueamoeba.com/fission[Fission]
 * link:https://www.google.com/chrome[Google Chrome]
 * link:https://www.noodlesoft.com[Hazel]
+* link:https://iina.io[IINA]
 * link:http://imageoptim.pornel.net[ImageOptim]
 * link:https://bjango.com/mac/istatmenus[iStat Menus]
 * link:https://www.iterm2.com[iTerm2]
-* link:https://www.ivpn.net[IVPN]
 * link:https://www.kaleidoscopeapp.com/ksdiff2[ksdiff]
 * link:https://ranchero.com/netnewswire[NewNewsWire]
 * link:https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
+* link:https://mockuuups.studio[Mockuuups Studio]
 * link:https://muzzleapp.com[Muzzle]
 * link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]
@@ -142,16 +144,17 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://cocoatech.com[Path Finder]
 * link:https://paw.cloud[Paw]
 * link:https://www.pgadmin.org[pgAdmin]
+* link:https://superhighfives.com/pika[Pika]
 * link:https://getpixelsnap.com[PixelSnap]
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
 * link:https://signal.org[Signal]
 * link:https://www.spotify.com[Spotify]
-* link:https://www.sublimetext.com[Sublime Text 3]
+* link:https://www.sublimetext.com[Sublime Text]
 * link:https://panic.com/transmit[Transmit]
 * link:https://www.sparklabs.com/viscosity[Viscosity]
 * link:https://code.visualstudio.com[Visual Studio Code]
-* link:https://www.videolan.org/vlc[VLC]
+* link:https://zulip.com[Zulip]
 
 === App Store Applications
 
@@ -160,9 +163,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://1password.com[1Password]
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
-* link:https://bear.app[Bear]
 * link:http://www.cocoajsoneditor.com[Cocoa JSON Editor]
-* link:https://usecontrast.com[Contrast]
 * link:https://daisydiskapp.com[DaisyDisk]
 * link:https://www.apple.com/mac/garageband[GarageBand]
 * link:https://handmirror.app[Hand Mirror]
@@ -183,13 +184,12 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://manytricks.com/namemangler[Name Mangler]
 * link:https://www.apple.com/numbers[Numbers]
 * link:https://www.omnigroup.com/omnifocus[OmniFocus]
-* link:https://www.omnigroup.com/omnioutliner[OmniOutliner]
 * link:https://www.apple.com/pages[Pages]
 * link:https://krillapps.com/patterns[Patterns]
-* link:https://smilesoftware.com/pdfpenpro[PDFpenPro]
 * link:https://www.pixelmator.com[Pixelmator]
 * link:https://www.color.ninja[Paletter]
 * link:https://primitive.lol[Primitive]
+* link:https://apps.apple.com/gb/app/sequence-diagram/id1195426709[Sequence Diagram]
 * link:https://mizage.com/shush[Shush]
 * link:https://slack.com[Slack]
 * link:https://textsniper.app/[TextSniper]
@@ -201,6 +201,7 @@ Installs the following macOS applications which are not located in the App Store
 
 * link:https://elm-lang.org[Elm]
 * link:https://www.docker.com[Docker]
+* link:https://www.vanamco.com[Ghostlab]
 * link:https://www.sonos.com[Sonos]
 
 === Application Extensions
@@ -240,12 +241,10 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
 * link:https://github.com/akabiru/fakerbot[Fakerbot]
 * link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
-* link:https://github.com/tpope/gem-ctags[Gem Ctags]
-* link:https://github.com/defunkt/gem-man[Gem Man]
 * link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://www.alchemists.io/projects/git-lint[Git Lint]
-* link:https://github.com/danchoi/gitfinger[Gitfinger]
 * link:https://hanamirb.org[Hanami]
+* link:https://github.com/jaredbeck/libyear-bundler[Libyear (Bundler)]
 * link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
 * link:https://github.com/joonty/pessimize[Pessimize]
 * link:https://www.alchemists.io/projects/pragmater[Pragmater]
@@ -261,6 +260,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/rubocop-hq/rubocop-rspec[Rubocop RSpec]
 * link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
 * link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
+* link:https://github.com/red-data-tools/YouPlot[YouPlot]
 
 === Rust Crates
 
@@ -280,7 +280,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 18.1.1
+git checkout 19.0.0
 ----
 
 == Usage
@@ -289,12 +289,10 @@ The following will walk you through the steps of installing/re-installing your m
 
 === Pre-Install
 
-Double check you have the following in place:
+Ensure you have the following in place:
 
-[arabic]
-. Ensure a backup of your Apple, NAS, backup, and Dropbox credentials are available.
+. Ensure a backup of your Apple, NAS, backup image, and Dropbox credentials are available.
 . Ensure a recent backup of your machine exists and works properly.
-. Ensure Xcode installed per macOS requirements.
 . Ensure link:https://support.apple.com/en-us/HT208198[Startup Security Utility] is disabled.
 .. Turn on or restart your machine then press and hold `POWER` (Silicon) or `COMMAND + R` (Intel)
    buttons immediately upon boot or restart.
@@ -303,13 +301,16 @@ Double check you have the following in place:
 .. Select _External Boot: Allow booting from external media_.
 .. Click _Turn Off Firmware Password_.
 .. Quit the utility and restart the machine.
-. You are now ready to boot your system with the macOS Boot Disk, erase/format your drive, and start
-the install process.
 
 === Install
 
-See the link:https://www.alchemists.io/projects/mac_os#_usage[macOS] project for usage as it
-provides the command line interface for running the configuration defined by this project.
+. Create a link:https://www.alchemists.io/projects/mac_os/#_boot_disk[macOS Boot Disk] and follow
+  instructions.
+. Ensure latest software updates are applied per
+  link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS Requirements].
+. Ensure Xcode is installed per link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS
+  Requirements].
+. Run link:https://www.alchemists.io/projects/mac_os#_usage[macOS Install] and follow all prompts.
 
 === Post-Install
 
@@ -402,6 +403,7 @@ captured in the `+restore.bom+` as well):
 * link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
+* *CONTROL + OPTION + COMMAND + c:* Pika (copy color)
 * *CONTROL + OPTION + COMMAND + d:* Alfred Define (use OPTION to open Dictionary)
 * *CONTROL + OPTION + COMMAND + h:* Alfred Highlight Syntax
 * *CONTROL + OPTION + COMMAND + k:* Keymou (cursor highlight show/hide)
