@@ -8,6 +8,7 @@ brew install bash-completion
 brew install bandwhich
 brew install bat
 brew install blueutil
+brew install chruby
 brew tap homebrew/cask-fonts
 brew install coreutils
 brew install croc
@@ -89,6 +90,7 @@ brew install tldr
 brew install tmux
 brew install tokei
 brew install tree
+brew install vault
 brew install viddy
 brew install vim
 brew install watch
