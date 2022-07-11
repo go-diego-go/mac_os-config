@@ -33,9 +33,13 @@ brew install --cask keybase
 brew install --cask kid3
 brew install --cask lunar
 brew install --cask macdown
+brew install --cask maestral
+brew install --cask mullvadvpn
 brew install --cask muzzle
 brew install --cask ngrok
+brew install --cask orion
 brew install --cask pgadmin4
+brew install --cask postico
 brew install --cask pritunl
 brew install --cask qbserve
 brew install --cask reaper
@@ -49,6 +53,7 @@ brew install --cask spotify
 brew install --cask sublime-text
 brew install --cask tableplus
 brew install --cask telegram
+brew install --cask tripmode
 brew install --cask whatsapp
 brew install --cask visual-studio-code
 brew install --cask vlc
