@@ -34,6 +34,7 @@ brew install --cask kid3
 brew install --cask lunar
 brew install --cask macdown
 brew install --cask maestral
+brew install --cask monitorcontrol
 brew install --cask mullvadvpn
 brew install --cask muzzle
 brew install --cask ngrok
