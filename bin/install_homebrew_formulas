@@ -22,6 +22,7 @@ brew install entr
 brew install exa
 brew install exiftool
 brew install fd
+brew install fig
 brew install flac
 brew install fnm
 brew install frum
@@ -64,6 +65,7 @@ brew install overmind
 brew install pandoc
 brew install parallel
 brew install pastel
+brew install perl
 brew install pgcli
 brew install pinentry-mac
 brew install pipenv
@@ -104,4 +106,5 @@ brew install youtube-dl
 brew install z
 brew install zinit
 brew install zsh
+brew install zsh-async
 brew install zsh-completions
