@@ -2,9 +2,19 @@
 
 # Installs Homebrew Casks.
 brew tap AdoptOpenJDK/openjdk
+brew tap 1password/tap
+brew tap adoptopenjdk/openjdk
+brew tap git-chglog/git-chglog
+brew tap homebrew/bundle
+brew tap homebrew/cask
+brew tap homebrew/cask-fonts
+brew tap homebrew/core
+brew tap norwoodj/tap
 
 brew install --cask 1password
+brew install --cask 1password-cli
 brew install --cask adoptopenjdk8
+brew install --cask adoptopenjdk11
 brew install --cask alfred
 brew install --cask appcleaner
 brew install --cask audacity
@@ -16,7 +26,7 @@ brew install --cask discord
 brew install --cask docker
 brew install --cask dropbox
 brew install --cask dynalist
-brew install --cask elmedia-player
+brew install --cask fig
 brew install --cask firefox
 brew install --cask fission
 brew install --cask flux
@@ -59,4 +69,6 @@ brew install --cask tripmode
 brew install --cask whatsapp
 brew install --cask visual-studio-code
 brew install --cask vlc
+brew install --cask youtube-dl
+brew install --cask yt-dlp
 brew install --cask zoom
