@@ -26,10 +26,6 @@ else
   export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
 fi
 
-export MIMESTREAM_APP_NAME="Mimestream.app"
-export MIMESTREAM_VOLUME_NAME="Mimestream"
-export MIMESTREAM_APP_URL="https://download.mimestream.com/Mimestream_1.0.5.dmg"
-
 export WALLY_APP_NAME="Wally.app"
 export WALLY_VOLUME_NAME="Wally"
 export WALLY_APP_URL="https://configure.ergodox-ez.com/wally/osx"
