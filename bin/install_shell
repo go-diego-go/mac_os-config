@@ -12,14 +12,13 @@ if [[ -z $(cat /etc/shells | grep "$(get_homebrew_bin_root)/bash") ]]; then
 
   (cd $HOME && git clone "https://github.com/go-diego-go/dotfiles.git")
   ln -s $HOME/dotfiles/zsh/.zshrc $HOME/.zshrc
-  source "$HOME/.zshrc"
 
   git config --global credential.helper osxkeychain
 
   read -p "Enter your git user.name: " user_name
   git config --global user.name $user_name
 
-  read -p "Enter your git user.name: " user_email
+  read -p "Enter your git user.email: " user_email
   git config --global user.email $user_email
   git config --global core.editor v
 
