@@ -47,7 +47,6 @@ brew install --cask mimestream
 brew install --cask monitorcontrol
 brew install --cask mullvadvpn
 brew install --cask muzzle
-brew install --cask netnewswire
 brew install --cask numi
 brew install --cask obsidian
 brew install --cask orbstack
@@ -55,7 +54,6 @@ brew install --cask orion
 brew install --cask pgadmin4
 brew install --cask postico
 brew install --cask postman
-brew install --cask pritunl
 brew install --cask raycast
 brew install --cask reaper
 brew install --cask rectangle
@@ -74,7 +72,5 @@ brew install --cask whatsapp
 brew install --cask vivaldi
 brew install --cask visual-studio-code
 brew install --cask vlc
-brew install --cask youtube-dl
-brew install --cask yt-dlp
 brew install --cask zoom
 brew install --cask zsa-wally
