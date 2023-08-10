@@ -10,7 +10,8 @@ if [[ -z $(cat /etc/shells | grep "$(get_homebrew_bin_root)/bash") ]]; then
 
   chsh -s /bin/zsh
 
-  install_git_project "https://github.com/go-diego-go/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
+  (cd $HOME && git clone "https://github.com/go-diego-go/dotfiles.git")
+  ln -s $HOME/dotfiles/zsh/.zshrc $HOME/.zshrc
   source "$HOME/.zshrc"
 
   git config --global credential.helper osxkeychain
