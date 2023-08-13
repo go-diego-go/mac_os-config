@@ -104,9 +104,6 @@ defaults write com.apple.finder ShowStatusBar -bool true
 printf "%s\n" "Finder - Use list view in all Finder windows."
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 
-printf "%s\n" "Finder - Display full POSIX path as window title."
-defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
-
 printf "%s\n" "Finder - Allow text selection in Quick Look."
 defaults write com.apple.finder QLEnableTextSelection -bool true
 
